@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="assets/banner.svg" alt="Atahan: automation, AI agents and small tools" width="100%">
-
-</div>
-
-## Hi, I'm Atahan
+# Atahan
 
 I turn manual, repetitive work into small tools that run on their own, more and more with AI agents.
 I'm based in Hamburg, finishing an M.A. in Brand Strategy (February 2027) after a B.Sc. in Statistics.
