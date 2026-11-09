@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240" role="img" aria-label="Atahan: automation, AI agents and tools that remove manual work">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#14213A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="240" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <path d="M60 150 H110 L130 110 L160 190 L190 130 L210 150 H260"/>
+    <circle cx="60" cy="150" r="7" fill="#22D3EE" stroke="none"/>
+    <circle cx="260" cy="150" r="7" fill="#818CF8" stroke="none"/>
+  </g>
+  <text x="320" y="118" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700">Atahan</text>
+  <text x="322" y="162" fill="url(#accent)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" textLength="520" lengthAdjust="spacingAndGlyphs">Automation, AI agents and small tools</text>
+  <text x="322" y="198" fill="#9FB0C3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" textLength="460" lengthAdjust="spacingAndGlyphs">Hamburg · Brand Strategy M.A. · Statistics B.Sc.</text>
+</svg>
