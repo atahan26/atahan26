@@ -10,7 +10,7 @@ For the last four years I have checked and automated fleet and billing data at a
 |---|---|
 | [**JARVIS**](https://github.com/atahan26/jarvis-local-assistant) | A free, local voice assistant for Windows. Whisper, Qwen3-8B and Kokoro run on my own PC, 11 allowlisted tools control apps, and you can interrupt it mid-sentence (it stops in 22 ms). Measured against its spec, misses included. |
 | [**CMK75 menu editor**](https://github.com/atahan26/cmk75-menu-editor) | Turns the screen and knob of a programmable keyboard into a Stream Deck-style launcher, with a browser editor and a screen-recovery tool. English, Turkish, Chinese, Russian and Korean README. |
-| [**GE200 Editor**](https://github.com/atahan26/ge200-editor) | An unofficial editor for the Mooer GE200 guitar pedal: a pedalboard in the browser over a USB protocol I reverse-engineered, an AI tone generator that works with any provider, my own cabinet IRs, expression pedal and MERGE. Not affiliated with Mooer. English, Turkish, Chinese, Russian and Korean README. |
+| [**GE200 Editor**](https://github.com/atahan26/ge200-editor) | An unofficial editor for the Mooer GE200 guitar pedal: a pedalboard in the browser over a USB protocol I worked out with Claude Code from the vendor editor and USB captures, an AI tone generator that works with any provider, my own cabinet IRs, expression pedal and MERGE. Not affiliated with Mooer. English, Turkish, Chinese, Russian and Korean README. |
 
 Most of my other work is private.
 
